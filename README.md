@@ -1,6 +1,6 @@
 <p align="center">
  <img width="100px" src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png" align="center" alt="Image: Parmeshwar Gudadhe" />
- <h2 align="center">Hi there 👋, I'm Parmeshwar Gudadhe</h2>
+ <h2 align="center">Hi 👋, I'm Parmeshwar Gudadhe</h2>
  <p align="center">I'm a Cloud and DevOps Engineer 👽</p>
 </p>
 
